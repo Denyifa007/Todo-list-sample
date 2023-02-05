@@ -180,6 +180,15 @@ body{
    color: var(--light);
    font-size: 1.25rem;
 
+} 
+header h1{
+   font-size: 2.5rem;
+   font-weight: 500;
+   color: var(--light);
+   margin-bottom: 1rem;
+}
+.taskList h2{
+   font-weight: 500;
 }
 
  }
